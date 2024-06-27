@@ -1,0 +1,12 @@
+.form-header {
+    width: 100%;
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #2572b4 !important;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.form-body {
+    padding: 10px;
+    border: 1px solid #2572b4;
+}
